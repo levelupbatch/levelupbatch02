@@ -78,7 +78,8 @@ def upload():
         result = str(pred_class[0][0][1])               # Convert to string
         return result
     return None
-
+def funct:
+    print(10+20)
 
 if __name__ == '__main__':
     app.run(debug=True)
